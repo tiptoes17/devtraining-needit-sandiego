@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="DELETE">
+        <sp_angular_provider display_value="scBasicSelect">e225f8b43b0523008ed00d8044efc4fe</sp_angular_provider>
+        <sp_widget display_value="Copy of SC Categories">da2a8e3487eb8510952e99383cbb3555</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 13:21:55</sys_created_on>
+        <sys_id>222a8e3487eb8510952e99383cbb355a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scBasicSelect.Copy of SC Categories</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_222a8e3487eb8510952e99383cbb355a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 13:21:55</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1dac0617db0d7700f492c59705961928</instance_id>
+        <instance_name>dev84757</instance_name>
+        <name>m2m_sp_ng_pro_sp_widget_222a8e3487eb8510952e99383cbb355a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget"><m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE"><sp_angular_provider display_value="scBasicSelect">e225f8b43b0523008ed00d8044efc4fe</sp_angular_provider><sp_widget display_value="Copy of SC Categories">da2a8e3487eb8510952e99383cbb3555</sp_widget><sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 13:21:55</sys_created_on><sys_id>222a8e3487eb8510952e99383cbb355a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>scBasicSelect.Copy of SC Categories</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>m2m_sp_ng_pro_sp_widget_222a8e3487eb8510952e99383cbb355a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-16 13:21:55</sys_updated_on></m2m_sp_ng_pro_sp_widget></record_update>]]></payload>
+        <payload_hash>288808462</payload_hash>
+        <record_name>scBasicSelect.Copy of SC Categories</record_name>
+        <reverted_from/>
+        <source>703a426b87174110952e99383cbb35da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 13:21:55</sys_created_on>
+        <sys_id>aa2a463887eb8510952e99383cbb355b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180cd0850350000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 13:21:55</sys_updated_on>
+        <type>Angular Providers</type>
+        <update_guid>e22a463815eb85103b0498d0dc664f5b</update_guid>
+        <update_guid_history>e22a463815eb85103b0498d0dc664f5b:288808462</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="scBasicSelect.Copy of SC Categories">56d29e70872f8510952e99383cbb35a1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 13:59:52</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_ng_pro_sp_widget">m2m_sp_ng_pro_sp_widget</sys_db_object>
+        <sys_id>3f7ebe77dbc34e7887fc610cd1a801c9</sys_id>
+        <sys_metadata>222a8e3487eb8510952e99383cbb355a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scBasicSelect.Copy of SC Categories</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_222a8e3487eb8510952e99383cbb355a</sys_update_name>
+        <sys_update_version display_value="m2m_sp_ng_pro_sp_widget_222a8e3487eb8510952e99383cbb355a">aa2a463887eb8510952e99383cbb355b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 13:59:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
